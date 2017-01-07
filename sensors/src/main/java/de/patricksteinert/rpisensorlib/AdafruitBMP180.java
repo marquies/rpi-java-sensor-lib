@@ -221,6 +221,15 @@ public class AdafruitBMP180
         return raw;
     }
 
+    /**
+     * Converts temperature from Celsius to Fahrenheit.
+     *
+     * @param temperature value in Celsius
+     * @return temperature value in Fahrenheit
+     */
+    public static double convertCelsiusToFahrenheit(double temperature) {
+        return temperature * 1.8 + 32;
+    }
     public float readTemperature() throws Exception
     {
         // Gets the compensated temperature in degrees celcius
