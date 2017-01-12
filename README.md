@@ -5,11 +5,11 @@ This is a library for Java Sensors. You can use it as Maven dependency.
 To test it, you can use the examples.
 
 Sensor Libraries:
-* BMP180
-* BMP280
-* Seed Studio AirQuality Sensor 1.0/1.3
-* SHT15
-* TSL45315
+* [BMP180](https://www.bosch-sensortec.com/bst/products/all_products/bmp180) barometric sensor
+* [BMP280](https://www.bosch-sensortec.com/bst/products/all_products/bmp280) barometric sensor
+* Seed Studio AirQuality Sensor 1.0/[1.3](https://www.seeedstudio.com/Grove-Air-quality-sensor-v1.3-p-2439.html) indoor air quality
+* [SHT15](https://www.sensirion.com/products/humidity-sensors/digital-humidity-sensors-for-accurate-measurements/) humidity sensor
+* TSL45315 light sensor
 
 ## Using examples
 
