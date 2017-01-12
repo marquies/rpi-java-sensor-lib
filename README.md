@@ -37,4 +37,7 @@ sudo java -cp examples-1.0-SNAPSHOT-jar-with-dependencies.jar de.patricksteinert
 Parts of the code in this repository are based on work of other peoples:
 * People from Adafruit
 * People from Seed Studio
-* 
+* [cudacode](https://github.com/cudacode)
+* and many other sources
+
+
