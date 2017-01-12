@@ -4,6 +4,13 @@ This is a library for Java Sensors. You can use it as Maven dependency.
 
 To test it, you can use the examples.
 
+Sensor Libraries:
+* BMP180
+* BMP280
+* Seed Studio AirQuality Sensor 1.0/1.3
+* SHT15
+* TSL45315
+
 ## Using examples
 
 Compile and package can be done on a seperate computer or on a Raspberry Pi itself.
@@ -29,4 +36,5 @@ sudo java -cp examples-1.0-SNAPSHOT-jar-with-dependencies.jar de.patricksteinert
 
 Parts of the code in this repository are based on work of other peoples:
 * People from Adafruit
-*Pdddd
+* People from Seed Studio
+* 
