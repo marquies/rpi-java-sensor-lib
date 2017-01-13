@@ -2,6 +2,8 @@
 
 This is a library for Java Sensors. You can use it as Maven dependency.
 
+This blog post describe who it started and how I used it in my [IoT AirQuality Lab](http://www.patricksteinert.de/wordpress/2017/01/13/iot-sensor-airquality-lab) project.
+
 To test it, you can use the examples.
 
 Sensor Libraries:
